@@ -9,4 +9,5 @@ test
 fast
 forward
 merge
+recursive
 
