@@ -8,4 +8,5 @@ g233
 test
 fast
 forward
+merge
 
